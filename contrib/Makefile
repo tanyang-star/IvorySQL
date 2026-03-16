@@ -27,6 +27,7 @@ SUBDIRS = \
 		intarray	\
 		isn		\
 		lo		\
+		mini_audit_pro	\
 		ltree		\
 		oid2name	\
 		old_snapshot	\
