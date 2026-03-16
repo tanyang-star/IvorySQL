@@ -1,0 +1,5 @@
+# mini_audit_pro extension
+comment = 'Asynchronous audit logging for selected tables'
+default_version = '1.0'
+module_pathname = '$libdir/mini_audit_pro'
+relocatable = false
